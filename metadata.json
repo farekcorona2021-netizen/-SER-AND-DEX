@@ -1,0 +1,6 @@
+{
+  "name": "SER AND DEX SUBTITLE",
+  "description": "Professional English to Arabic subtitle translation addon for Stremio with AI optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
